@@ -3,6 +3,7 @@
 - :open_book: I am a constant learner (be it online platform or books), and an avid reader.
 - :handshake: You can reach me on LinkedIn (@mshardul)
 - :computer: I have made several projects (most of them are private repos). If you are interested, I can explain them to you (will update the list here soon)
+- :link: [linkedIn](https://www.linkedin.com/in/mshardul/)
 
 <!---
 Mshardul/Mshardul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
