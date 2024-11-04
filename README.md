@@ -1,5 +1,4 @@
 - :wave: Hi, I’m Shardul Lingwal
-- :technologist: Currently working as SDE-4 (Backend) at Bhanzu (formerly, Exploring Infinities).
 - :open_book: I am a constant learner (be it online platform or books), and an avid reader.
 - :handshake: You can reach me on LinkedIn (@mshardul)
 - :computer: I have made several projects (most of them are private repos). If you are interested, I can explain them to you (will update the list here soon)
